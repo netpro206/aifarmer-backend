@@ -1,7 +1,8 @@
 {
   "name": "Maize",
-  "planting": "Plant at the start of rainy season, in well-drained soils.",
-  "fertilizer": "Apply NPK fertilizer at planting and top dress with urea later.",
-  "pest_management": "Watch for armyworms and treat promptly.",
-  "harvest": "Harvest when cobs are dry and kernels are hard."
+  "planting_time": "March to June",
+  "spacing": "75 cm between rows, 25 cm within rows",
+  "fertilizer": "NPK 20-10-10 at planting and urea as top-dressing at 4 weeks",
+  "harvest": "About 3\u20134 months after planting when cobs are dry",
+  "notes": "Requires full sunlight and moderate rainfall."
 }
